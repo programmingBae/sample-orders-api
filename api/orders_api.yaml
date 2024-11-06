@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: Order
+  title: Order Test
   description: View and track your orders and deliveries.
   termsOfService: https://github.com/ibm-apiconnect/sample-orders-api
   contact:
