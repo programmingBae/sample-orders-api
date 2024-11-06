@@ -9,7 +9,7 @@ jobs:
     - uses: actions/checkout@v2
     - uses: ibm-apiconnect/actions@main
       with:
-        manager-host: api-manager.us-east-a.apiconnect.automation.ibm.com
+        manager-host: apim-demo-mgmt-api-manager-tools.apps.6715b2c5d7b7dd1967d97e86.ocp.techzone.ibm.com
         api-host: platform-api.us-east-a.apiconnect.automation.ibm.com
         validate_only: 'true'
         provider-org: 'demo'
